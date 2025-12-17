@@ -83,3 +83,11 @@ java -cp out to_do_list.ToDoList
 - Abra o projeto na IDE (ex: IntelliJ IDEA)
 - Execute a classe principal (Main)
 
+### Autora:
+Desenvolvido por [Caroline L. Santos](https://linkedin.com/in/lsantoscaroline/)
+
+---
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
+
