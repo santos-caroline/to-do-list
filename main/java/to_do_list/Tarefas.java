@@ -51,5 +51,8 @@ public class Tarefas {
                 
                 Titulo: %s, Descricão: %s, Data de Entrega: %s, Status: %s
                 """).formatted(titulo, descricao, dataEntrega, status);
+
+                //Se o método retorna texto → formatted()
+                //Se o método mostra texto no console → printf()
     }
 }

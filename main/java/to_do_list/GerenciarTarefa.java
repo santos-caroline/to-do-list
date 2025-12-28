@@ -2,7 +2,6 @@ package to_do_list;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Locale;
 import java.util.Scanner;
 
 
